@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95192e97-0c2b-4784-a043-6b9187815db7" name="Changes" comment="Pattern Command start">
-      <change afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/MusicPlayerCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/PlayFirstTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/PlayNextTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/PlayRandomTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayerRemote/MusicPlayerRemote.java" afterDir="false" />
+    <list default="true" id="95192e97-0c2b-4784-a043-6b9187815db7" name="Changes" comment="Pattern Command finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patternCommandExrc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/MusicPlayerCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/MusicPlayerCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/PlayFirstTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/PlayFirstTrack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/PlayNextTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayer/PlayNextTrack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayerRemote/MusicPlayerRemote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patternCommandExrc/musicPlayerRemote/MusicPlayerRemote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662472261111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pattern Command finish">
+      <created>1662483316096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483316096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pattern Command start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern Command start" />
+    <MESSAGE value="Pattern Command finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern Command finish" />
   </component>
 </project>
